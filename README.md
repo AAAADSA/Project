@@ -58,4 +58,9 @@ This module is responsible for managing train ticket bookings, including recordi
 - **Seat Selection**: Depending on train availability and coach type, users select seats with specific constraints.
 - **Payment**: Users confirm payment details, including bank account information. Invalid inputs prompt for re-entry.
 
-If you want to try my project,just download the zip file and run it using [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false#installvs) 
+  ## Setup
+1. Download the zip file.
+2. Run it using [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false#installvs) 
+
+
+
