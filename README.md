@@ -60,7 +60,18 @@ This module is responsible for managing train ticket bookings, including recordi
 
   ## Setup
 1. Download the zip file.
-2. Run it using [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false#installvs) 
+2. Run it using [Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false#installvs)
+
+## Sample Output
+![Screenshot 2024-09-26 205842](https://github.com/user-attachments/assets/7ffd2ed5-cc8d-4d4a-87b8-d30249201f86)
+![Screenshot 2024-09-26 205827](https://github.com/user-attachments/assets/1c3ca76f-e2a8-4747-a18d-70eb66eeb134)
+![Screenshot 2024-09-26 205813](https://github.com/user-attachments/assets/46daa73d-3de9-4c95-9ed7-bd4b19c7d0e2)
+![Screenshot 2024-09-26 205757](https://github.com/user-attachments/assets/202fd0b4-e13c-43e3-a01e-e7ef286d24ec)
+![Screenshot 2024-09-26 205747](https://github.com/user-attachments/assets/c43de155-a80e-43c6-9578-876673abdac9)
+![Screenshot 2024-09-26 205636](https://github.com/user-attachments/assets/1cde0e0c-71a2-425f-bd80-2a32593cf4fc)
+![Screenshot 2024-09-26 205631](https://github.com/user-attachments/assets/0c87b791-6bda-49c5-b87e-ccbe3b79b7eb)
+![Screenshot 2024-09-26 205619](https://github.com/user-attachments/assets/a186c27e-ed0a-42a0-ade6-0250926f2ce4)
+![Screenshot 2024-09-26 205455](https://github.com/user-attachments/assets/f155df91-eca1-46f4-af16-483a6bc54f40)
 
 
 
